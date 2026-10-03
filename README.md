@@ -117,5 +117,4 @@ WORKFLOW:
 │        RESULTS           │
 └──────────────────────────┘
 
-### 🔒 Privacy Protection
-Voter identity and voting preference remain protected.
+ 
